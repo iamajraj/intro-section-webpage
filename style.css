@@ -235,10 +235,10 @@ nav .left .company-link-active .company-down-icon {
 }
 
 .register_btn {
-  padding: 6px 13px;
-  border: 2px solid var(--gray);
+  padding: 12px 20px;
+  border: 1px solid var(--gray);
   border-radius: 10px;
-  font-size: 19px;
+  font-size: 14px;
 }
 main {
   margin: 0 10rem;
