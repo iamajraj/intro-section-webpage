@@ -117,6 +117,7 @@ body {
 .menu .feature-menu-active .feature-sub-menu {
   display: block;
 }
+
 .menu .company-menu-active .company-down-icon {
   display: none;
 }
